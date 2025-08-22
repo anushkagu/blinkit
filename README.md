@@ -12,9 +12,9 @@ DAX (Data Analysis Expressions) – Used to create calculated measures, apply co
 
 Power Query – Utilized for data cleaning, transformation, and preparation before visualization.
 
-**Dashboard Components & Chart Requirements**
+# **Dashboard Components & Chart Requirements**
 
-1.Total Sales by Fat Content
+**Total Sales by Fat Content**
 
 Objective: Examine how fat content influences sales.
 
@@ -22,7 +22,7 @@ Additional KPIs: Average Sales, Number of Items, Average Rating.
 
 Visualization: Donut Chart.
 
-2.Total Sales by Item Type
+**Total Sales by Item Type**
 
 Objective: Assess the sales performance of various product categories.
 
@@ -30,7 +30,7 @@ Additional KPIs: Average Sales, Number of Items, Average Rating.
 
 Visualization: Bar Chart.
 
-3.Fat Content vs. Outlet Sales
+**Fat Content vs. Outlet Sales**
 
 Objective: Compare outlet-level sales based on fat content segmentation.
 
@@ -38,25 +38,25 @@ Additional KPIs: Average Sales, Number of Items, Average Rating.
 
 Visualization: Stacked Column Chart.
 
-4.Sales by Outlet Establishment
+**Sales by Outlet Establishment**
 
 Objective: Measure the effect of outlet age/type on sales performance.
 
 Visualization: Line Chart.
 
-5.Sales by Outlet Size
+**Sales by Outlet Size**
 
 Objective: Identify the relationship between outlet size and sales contribution.
 
 Visualization: Donut / Pie Chart.
 
-6.Sales by Outlet Location
+**Sales by Outlet Location**
 
 Objective: Explore sales distribution across different geographic locations.
 
 Visualization: Funnel Map.
 
-7.Comprehensive Metrics by Outlet Type
+**Comprehensive Metrics by Outlet Type**
 
 Objective: Present an all-in-one breakdown of key performance indicators (Total Sales, Average Sales, Number of Items, Average Rating) across outlet types.
 
